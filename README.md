@@ -50,3 +50,21 @@ Adds subscriptions for tools like Microsoft 365 or Zoom.
 Sets reminder alerts for 10 days before expiry.
 
 The system automatically notifies before license expiration.
+
+📸 Screenshots
+Include relevant screenshots here if available (e.g., terminal output, UML diagrams, wireframes)
+
+📜 License
+This project is licensed under the MIT License.
+
+📬 Contact
+Developer: Md Mosharaf Hossain
+GitHub: mmhuk2023
+Email: mosharafhossainuk2023@gmail.com
+
+### ✅ What to do next:
+1. Open your GitHub repo.
+2. Click on the `README.md` file.
+3. Click the pencil icon ✏️ to **edit**.
+4. Replace the current text with this new version.
+5. Click **"Commit changes"**.
