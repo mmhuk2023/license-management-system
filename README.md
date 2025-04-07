@@ -52,7 +52,15 @@ Sets reminder alerts for 10 days before expiry.
 The system automatically notifies before license expiration.
 
 📸 Screenshots
-Include relevant screenshots here if available (e.g., terminal output, UML diagrams, wireframes)
+✅ 1. UML Class Diagram
+![System Architecture Diagram drawio](https://github.com/user-attachments/assets/5632da84-886a-407d-9672-54e24e7bdca7)
+✅ 2. UML Class Diagram
+![image](https://github.com/user-attachments/assets/8be41664-fea1-41a7-9aa5-dbc2f1fd7a47)
+✅ 3. Terminal Output – Subscription Added Successfully
+![Screenshot_1](https://github.com/user-attachments/assets/acced5d3-d9b6-4f36-80c5-739ea9a1be24)
+✅ 4. Unit Test Pass Output
+![Screenshot_2](https://github.com/user-attachments/assets/bd988016-6c22-42a2-ae22-9d44704dce6a)
+
 
 📜 License
 This project is licensed under the MIT License.
