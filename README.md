@@ -76,3 +76,9 @@ Email: mosharafhossainuk2023@gmail.com
 3. Click the pencil icon ✏️ to **edit**.
 4. Replace the current text with this new version.
 5. Click **"Commit changes"**.
+
+## 🎨 UI/UX Design (Figma)
+
+The complete mobile UI was designed using Figma. It includes onboarding, login, subscription management, and admin dashboards.
+
+🔗 [View Figma Prototype](https://www.figma.com/design/fq4fak0GDN9eLrqXssHykg/Md-Mosharaf-Hossain-2416903)
