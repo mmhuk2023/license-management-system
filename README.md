@@ -36,6 +36,17 @@ license-management-system/
 ├── LICENSE                     # MIT License
 ├── .gitignore                  # Files ignored by Git (e.g., *.pyc, __pycache__)
 
+---
+
+## 🧠 Dual Implementation
+
+This project has two versions:
+- ✅ Python: Used for prototyping, testing, and quick development
+- ✅ Java: Final submission implementation
+
+See:
+📁 [python-version](./python-version)  
+📁 [java-version](./java-version)
 
 ---
 
