@@ -50,11 +50,28 @@ See:
 
 ---
 
+## 💻 Languages Used
+
+- ✅ Python (Prototype and testing)
+- ✅ Java (Final implementation for submission)
+
+📁 [python-version](./python-version)  
+📁 [java-version](./java-version)
+
+---
+
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
-- Built using **OOP principles** (Encapsulation, Inheritance, Abstraction)
-- Uses Python's `datetime` and `unittest` libraries
+Category	Technology / Tool
+💻 Programming Languages	Python (Prototype), Java (Final Implementation)
+⚙️ OOP Concepts	Encapsulation, Inheritance, Abstraction, Polymorphism
+🧠 Development IDE	Visual Studio Code (Python), IntelliJ IDEA / Eclipse (Java)
+📦 Python Libraries	datetime, unittest
+☕ Java APIs	java.time.LocalDate, ArrayList, List, ChronoUnit
+✅ Testing Tools	Python unittest, Manual console testing (Java)
+🎨 UI/UX Design	Figma (Mobile wireframe & screen flow)
+🌐 Version Control	Git, GitHub
+📄 Documentation	Microsoft Word (Final Report PDF), GitHub README
 
 ---
 
