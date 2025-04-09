@@ -16,7 +16,25 @@ A Python-based License and Subscription Management System developed with Object-
 ---
 
 ## 📁 Project Structure
-license-management-system/ ├── main.py # Entry point to run the application ├── user.py # User class (manages user details) ├── subscription.py # Subscription class (stores license details) ├── reminder.py # Reminder class (notifies users) ├── manager.py # LicenseManager class (manages all subscriptions) └── test_subscription.py # Unit test for Subscription class
+license-management-system/
+├── python-version/
+│   ├── main.py                 # Entry point to run the app
+│   ├── user.py                 # User class with encapsulated attributes
+│   ├── subscription.py         # Subscription class with renew method and tracking
+│   ├── reminder.py             # Sends reminders before expiry
+│   ├── manager.py              # Manages all subscriptions, checks expiry
+│   ├── test_subscription.py    # Unit tests for Subscription class
+│
+├── java-version/               # (To be added – Java implementation of the system)
+│   ├── Main.java               # Entry point (to be added)
+│   ├── User.java               # User class (to be added)
+│   ├── Subscription.java       # Subscription logic (to be added)
+│   ├── Reminder.java           # Reminder logic (to be added)
+│   ├── LicenseManager.java     # Subscription management (to be added)
+│
+├── README.md                   # Project overview and usage guide
+├── LICENSE                     # MIT License
+├── .gitignore                  # Files ignored by Git (e.g., *.pyc, __pycache__)
 
 
 ---
